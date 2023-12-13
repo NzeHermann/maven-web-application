@@ -12,13 +12,13 @@
 <h1 align="center">Welcome to Landmark Technologies.</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
 	Landmark Technologies is a software development company. 
-	Class26 will run from November 7, 2023.
-        You all will make it to the upcoming year 2024. 
+	Class26 will run from November 7, 2023. 
+        A sum of $180K awaits you in your new job.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/LANDMARK TECH LOGO 04.png" alt="" width="200">
+		<img src="images/landmarklogo.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
 		Landmark Technology, 
